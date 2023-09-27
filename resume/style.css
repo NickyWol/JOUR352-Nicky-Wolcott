@@ -17,6 +17,11 @@ h1 {
 }
 
 /*my title*/
+strong {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: #33485e;
+}
 
 /*section titles*/
 h2 {
@@ -30,20 +35,24 @@ h2 {
 h3 {
     font-size: 1.5em;
     font-weight: 600;
+    color: #33485e;
 }
 
 /*job organization*/
 h4 {
     font-size: 1.5em;
+    color: #33485e;
 }
 
 /*job dates*/
 h5 {
     font-size: 1em;
     font-style: italic;
+    color: #33485e;
 }
 
 /*contact info, skills, education*/
 ul {
     font-size: 1em;  
+    color: #33485e;
 }
