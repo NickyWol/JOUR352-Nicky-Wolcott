@@ -41,6 +41,7 @@ h3 {
 /*job organization*/
 h4 {
     font-size: 1.5em;
+    font-weight: 400;
     color: #33485e;
 }
 
@@ -48,6 +49,7 @@ h4 {
 h5 {
     font-size: 1em;
     font-style: italic;
+    font-weight: 400;
     color: #33485e;
 }
 
