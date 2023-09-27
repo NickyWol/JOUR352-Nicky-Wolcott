@@ -1,8 +1,8 @@
 /*styles for my resume*/
-
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 /*defaults*/
-h {
-    font-family: "Open Sans", Arial, sans-serif;
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
     color: #444;
     font-weight: 400;
     font-size: 1em;
