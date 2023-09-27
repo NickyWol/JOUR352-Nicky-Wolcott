@@ -1,12 +1,14 @@
+/*styles for my resume*/
 
-
-.h {
-    font-family: 'Open Sans', Arial, sans-serif;
+/*defaults*/
+h {
+    font-family: "Open Sans", Arial, sans-serif;
     color: #444;
     font-weight: 400;
     font-size: 1em;
 }
 
+/*name*/
 h1 {
     font-size: 3em;
     color: #33485e;
@@ -14,8 +16,34 @@ h1 {
     text-transform: uppercase;
 }
 
+/*my title*/
+
+/*section titles*/
 h2 {
     font-size: 1.5em;
-    color: #33485e;
-    
+    text-transform: uppercase;
+    background-color: #33485e;
+    color: white;
+}
+
+/*job titles*/
+h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+/*job organization*/
+h4 {
+    font-size: 1.5em;
+}
+
+/*job dates*/
+h5 {
+    font-size: 1em;
+    font-style: italic;
+}
+
+/*contact info, skills, education*/
+ul {
+    font-size: 1em;  
 }
